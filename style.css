@@ -1,0 +1,41 @@
+*{
+    background:#0041a3;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    padding-top: 7%;
+    font-size: 36px;
+}
+
+h2{
+    color:white;
+    font-size: 30px;
+}
+
+p{
+    padding-right: 10%;
+    font-size: 20px;
+}
+
+
+#orange{
+    padding-right: px;
+    width: 20%;
+    border-radius: 15px;
+  border-color: white;
+  size: 40px;
+}
+
+#red{
+    padding-right: px;
+    width: 50%;
+    border-radius: 15px;
+  border-color: white;
+  size: 40px;
+}
+
+button:hover{
+    background-color:blue;
+}
