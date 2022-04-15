@@ -11,12 +11,7 @@ p{
   font-size: 34px;
 }
 
-f{
-  color:black;
-  background:linear-gradient(45deg,rgb(28, 182, 253),rgb(255, 0, 255));
-  border-radius: 10%;
-  background-color: none;
-}
+
 
 body {
   background-size: 200px 200px;
