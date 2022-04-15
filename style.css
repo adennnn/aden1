@@ -1,34 +1,59 @@
 *{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background:linear-gradient(90deg, rgb(223, 221, 221), rgb(189, 188, 188))
-
+  font-family: Arial, Helvetica, sans-serif;
+  color:black;
 }
-
 h1{
-    color: black;
-    padding-top: 8%;
-    font-size: 40px;
+  padding-top: 10%;
+  font-size: 45px;
 }
-
-h2{
-    padding-top: 5%;
-    font-size: 35px;
-}
-
 p{
-    font-size: 20px;
-
-
-    color:black
-    
+  padding-top:4%;
+  font-size: 34px;
 }
 
-a{
-    color:inherit;
-    text-underline-offset: none;
-    background:none;
+f{
+  color:black;
+  background:linear-gradient(45deg,rgb(28, 182, 253),rgb(255, 0, 255));
+  border-radius: 10%;
+  background-color: none;
 }
 
-a:hover{
-    color:rebeccapurple
+body {
+  background-size: 200px 200px;
+  background-color: linear-gradient(90deg,rgb(221rgb(194, 194, 194), 221)y, black) ;
+  background-image:
+    linear-gradient(to right, rgb(0, 0, 0) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(0, 0, 0) 1px, transparent 1px);
+}
+
+button{
+  background: rgb(40, 133, 255);
+  border:none;
+  border-radius: 15px;
+  height: 60px;
+  width:  200px;
+  font-size: 20px;
+}
+button:hover{
+  background:rgb(0, 153, 255);
+}
+
+#nerd{
+  
+  
+  size: 40px;
+  
+  width: 20%;
+  
+  background: white;
+  
+}
+
+#lol{
+  align-items:inherit;
+  padding-bottom: 10%;
+}
+
+#red{
+  padding-top: 2%;
 }
